@@ -1,6 +1,10 @@
 /* Default styles for small screens and anything not caught by media */
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap'); 
+
 body {
     background-color: rgba(255, 0, 191, 0.555);
+    font-family: Arial, helvetica, sans-serif ;
+    font-family: "Mukta", sans-serif;
 }
 .column {
   width: 100%;
@@ -22,4 +26,5 @@ body {
       clear: both;
     }
 }
+
 
